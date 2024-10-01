@@ -1,7 +1,7 @@
 extends Node
 
 # Variables to persist across scenes
-var player_position: Vector2 = Vector2(100, 100)
+var player_position: Vector2 = Vector2(10,8)
 
 # Function to save the player's position
 func save_position(pos: Vector2):
